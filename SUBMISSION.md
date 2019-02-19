@@ -11,7 +11,7 @@
 ![Screen Capture #11](images/image11.png)
 ![Screen Capture #12](images/image12.png)
 ![Screen Capture #13](images/image13.png)
-![Screen Capture #14](images/image11.png)
-![Screen Capture #15](images/image12.png)
-![Screen Capture #16](images/image13.png)
+![Screen Capture #14](images/image14.png)
+![Screen Capture #15](images/image15.png)
+![Screen Capture #16](images/image16.png)
 
